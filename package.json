@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Bünyamin Elmas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node": "^16.17.0"
+  }
+}
